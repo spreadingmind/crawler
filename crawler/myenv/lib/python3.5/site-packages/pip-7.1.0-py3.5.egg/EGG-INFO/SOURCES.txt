@@ -1,0 +1,7 @@
+pip.egg-info/PKG-INFO
+pip.egg-info/SOURCES.txt
+pip.egg-info/dependency_links.txt
+pip.egg-info/entry_points.txt
+pip.egg-info/not-zip-safe
+pip.egg-info/requires.txt
+pip.egg-info/top_level.txt
