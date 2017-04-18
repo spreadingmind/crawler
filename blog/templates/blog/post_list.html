@@ -7,7 +7,16 @@
     <div>
         <h1><a href="">Spreading mind</a></h1>
     </div>
-    <p> Hi there! </p>
+
+    {% for post in posts %}
+        <div>
+            <p> published: {{post.published_date }} </p>
+            <h1><a href="">{{ post.title }}</a></h1>
+            <p>{{ post.text|linebreaksbr }}</p>
+        </div>
+
+    {% endfor %}
+
 </body>
 
 </html>
