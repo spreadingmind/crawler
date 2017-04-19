@@ -1,0 +1,70 @@
+.page-header {
+    background-color: #2F95CC   ;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+
+}
+
+.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+    color: #D7DBE0;
+    font-size: 36pt;
+    text-decoration: none;
+}
+
+.content {
+    margin-left: 40px;
+    margin-right: 10 px;
+}
+
+h1, h2, h3, h4 {
+
+
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: 28pt
+}
+
+.date {
+    font-family: 'Ubuntu', sans-serif;
+
+    color: #828282;
+}
+
+.save {
+    float: right;
+}
+
+    .post-form textarea, .post-form input {
+    width: 100%;
+}
+
+.top-menu, .top-menu:hover, .top-menu:visited {
+    color: #ffffff;
+    float: right;
+    font-size: 26pt;
+    margin-right: 20px;
+}
+
+.post {
+
+    margin-bottom: 70px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 12pt;
+    color: #3D3E40;
+    text-align: justify;
+}
+
+.post h1 a, {
+    color: #000000;
+}
+
+.post h1 a:visited {
+    color: #D7DBE0
+}
+
+.post p.text {
+    text-align: justify;
+
+}
+
+
+
