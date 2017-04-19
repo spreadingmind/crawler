@@ -53,16 +53,14 @@ h1, h2, h3, h4 {
     text-align: justify;
 }
 
-.post h1 a, {
+.post h1 a, h1 a:visited  {
     color: #000000;
 }
 
-.post h1 a:visited {
-    color: #D7DBE0
-}
+
 
 .post p.text {
-    text-align: justify;
+    text-align: jus tify;
 
 }
 
