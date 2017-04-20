@@ -17,8 +17,6 @@
 }
 
 h1, h2, h3, h4 {
-
-
     font-family: 'Rubik Mono One', sans-serif;
     font-size: 28pt
 }
@@ -59,10 +57,8 @@ h1, h2, h3, h4 {
 
 
 
-.post p.text {
-    text-align: jus tify;
-
+.post p {
+    text-align: justify;
+    margin: 0 auto;
+    padding: 0;
 }
-
-
-
